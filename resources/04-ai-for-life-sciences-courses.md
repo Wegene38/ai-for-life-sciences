@@ -8,7 +8,7 @@
 
 | 资源 | 形式 | 说明 |
 |---|---|---|
-| ⭐🇨🇳 [MIT 6.874 / 6.802 Deep Learning in the Life Sciences](https://mit6874.github.io/) | 🎓📹 | Manolis Kellis & David Gifford；覆盖 CNN / RNN、调控基因组学、单细胞、GWAS、蛋白结构等；2020 版录像有 [B 站中文字幕搬运](https://www.bilibili.com/video/av92028853) |
+| ⭐🇨🇳 [MIT 6.874 / 6.802 Deep Learning in the Life Sciences](https://mit6874.github.io/) | 🎓📹 | Manolis Kellis & David Gifford；覆盖 CNN / RNN、调控基因组学、单细胞、GWAS、蛋白结构等；2020 版录像有 [B 站搬运版](https://www.bilibili.com/video/av92028853) |
 | ⭐ [Stanford CS273B Deep Learning in Genomics and Biomedicine（课程材料）](https://github.com/kundajelab/cs273b) | 💻 | Anshul Kundaje & James Zou；调控基因组学、蛋白、医疗数据 |
 | ⭐ [Deep Learning for Molecules & Materials（dmol.pub）](https://dmol.pub/) | 📖💻 | Andrew White 著，可在浏览器运行的 Notebook；GNN、等变网络、生成模型 |
 | ⭐ [MIT 6.047/6.878 Computational Biology](https://ocw.mit.edu/courses/6-047-computational-biology-fall-2015/) | 🎓 | 计算生物学的算法与机器学习基础 |

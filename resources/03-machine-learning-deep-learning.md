@@ -27,7 +27,7 @@
 | [Deep Learning: Foundations and Concepts（Bishop & Bishop）](https://www.bishopbook.com/) | 📖 | 2024 年新教材，可免费在线阅读 |
 | ⭐ [Neural Networks: Zero to Hero（Andrej Karpathy）](https://karpathy.ai/zero-to-hero.html) | 📹💻 | 从 micrograd 写到 GPT，代码驱动 |
 | [Practical Deep Learning for Coders（fast.ai）](https://course.fast.ai/) | 🎓📹 | 自顶向下，先做出东西再讲原理 |
-| [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) | 🎓📹 | 每年更新，含生物应用讲座 |
+| [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) | 🎓📹 | 每年更新，有完整录像 |
 | [Stanford CS231n](https://cs231n.stanford.edu/) | 🎓 | CNN 与视觉，课程笔记经典 |
 | [Stanford CS224n](https://web.stanford.edu/class/cs224n/) | 🎓 | NLP 与 Transformer |
 | [PyTorch 官方教程](https://pytorch.org/tutorials/) | 📖💻 | “Learn the Basics”系列 |

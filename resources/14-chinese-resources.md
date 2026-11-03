@@ -15,7 +15,7 @@
 | [南瓜书](https://github.com/datawhalechina/pumpkin-book) | 西瓜书公式推导 | 第 6–7 周 |
 | [深入浅出 PyTorch](https://github.com/datawhalechina/thorough-pytorch) | PyTorch 中文教程 | 第 8 周 |
 | ⭐ [生物信息学：导论与方法（北京大学）](https://www.coursera.org/learn/sheng-wu-xin-xi-xue) | 序列比对、NGS、计算基因组学 | 第 5 周 |
-| [MIT 6.874（2020）B 站中文字幕版](https://www.bilibili.com/video/av92028853) | 生命科学中的深度学习 | 第 14–22 周 |
+| [MIT 6.874（2020）B 站搬运版](https://www.bilibili.com/video/av92028853) | 生命科学中的深度学习 | 第 14–22 周 |
 | [北大暑期学校 AI for Protein Design（2025）](https://pkuproteinai.github.io/2025summer) | 蛋白 AI 课程大纲 | 第 16–18 周 |
 | [Missing Semester 中文版](https://missing-semester-cn.github.io/) | 命令行、Git 等工程技能 | 第 1 周 |
 | [Python 官方教程（中文）](https://docs.python.org/zh-cn/3/tutorial/) | Python 入门 | 第 2 周 |
