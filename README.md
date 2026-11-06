@@ -3,9 +3,9 @@
 **AI for Life Sciences：一条 26 周的系统学习路线 + 精选免费资源 + 每天更新的学习笔记**
 
 <!-- PROGRESS:START -->
-![每日笔记](https://img.shields.io/badge/daily%20notes-3-2ea44f) ![最近更新](https://img.shields.io/badge/updated-2026--11--06-blue)
+![每日笔记](https://img.shields.io/badge/daily%20notes-4-2ea44f) ![最近更新](https://img.shields.io/badge/updated-2026--11--07-blue)
 
-📈 每日笔记已更新 **3** 天 · 核心课程进度 3 / 182 · 当前阶段：阶段 0「启航」
+📈 每日笔记已更新 **4** 天 · 核心课程进度 4 / 182 · 当前阶段：阶段 0「启航」
 <!-- PROGRESS:END -->
 
 从 Python 和数学基础出发，经过机器学习、深度学习、生成模型与大模型，再深入基因组、蛋白质、药物发现、单细胞、生物医学影像、科研智能体六个方向，最后完成一个可开源的毕业项目。所有推荐资源都**免费**，建库时做过核实：GitHub 仓库逐个确认存在，其他链接以官方页面为准并经网络搜索核实。
@@ -41,6 +41,7 @@ flowchart LR
 <!-- LATEST:START -->
 | 日期 | Day | 主题 |
 |---|---|---|
+| 2026-11-07 | [Day 004](daily/2026-11/day004-2026-11-07.md) | Git 与 GitHub：建立自己的学习仓库 |
 | 2026-11-06 | [Day 003](daily/2026-11/day003-2026-11-06.md) | 开发环境：Colab、Kaggle、conda、Jupyter |
 | 2026-11-05 | [Day 002](daily/2026-11/day002-2026-11-05.md) | 学习者自评与个人路线定制 |
 | 2026-11-04 | [Day 001](daily/2026-11/day001-2026-11-04.md) | 启航：AI × 生命科学全景图 |
