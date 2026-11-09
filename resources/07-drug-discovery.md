@@ -20,6 +20,7 @@
 |---|---|
 | ⭐ [RDKit](https://github.com/rdkit/rdkit) | 化学信息学基础库：分子读写、描述符、指纹、子结构 |
 | ⭐ [Chemprop](https://github.com/chemprop/chemprop) | 消息传递网络做分子性质预测 |
+| 🆕 [CheMeleon](https://github.com/JacksonBurns/chemeleon) | 用 Mordred 描述符预训练的 Chemprop 基础模型，适合小数据性质预测（MIT 许可） |
 | [DeepChem](https://github.com/deepchem/deepchem) | 分子机器学习工具集 |
 | 🇨🇳 [Uni-Mol（深势科技）](https://github.com/deepmodeling/Uni-Mol) | 3D 分子表示学习框架 |
 | 🇨🇳 [OpenBioMed](https://github.com/PharMolix/OpenBioMed) | 面向生物医药的多模态 AI 工具包 |

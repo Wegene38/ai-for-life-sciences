@@ -8,11 +8,15 @@
 |---|---|---|
 | ⭐🇨🇳 [Python 官方教程（中文）](https://docs.python.org/zh-cn/3/tutorial/) | 📖 | 最权威的语法入门，第 3–9 章覆盖日常所需 |
 | ⭐ [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | 📖💻 | Jake VanderPlas 著，免费全文 + Notebook；NumPy、pandas、Matplotlib、scikit-learn |
-| ⭐🇨🇳 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) · [中文版](https://missing-semester-cn.github.io/) | 🎓📹 | MIT 出品：Shell、编辑器、Git、调试、元编程 |
+| ⭐🇨🇳 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) · [中文版](https://missing-semester-cn.github.io/) | 🎓📹 | MIT 出品：Shell、编辑器、Git、调试、元编程；🆕 2026 年新版已上线，把 AI 工具的用法融入各讲，中文翻译目前是 2020 版 |
 | [Software Carpentry：The Unix Shell](https://swcarpentry.github.io/shell-novice/) | 📖 | 零基础命令行，面向科研人员 |
 | [Software Carpentry：Version Control with Git](https://swcarpentry.github.io/git-novice/) | 📖 | Git 入门 |
+| 🇨🇳 [《Pro Git》中文版](https://git-scm.com/book/zh/v2) | 📖 | Git 官方免费书，第 2–3 章覆盖日常用法与分支 |
+| [Ten Simple Rules for Taking Advantage of Git and GitHub](https://doi.org/10.1371/journal.pcbi.1004947) | 📄 | Perez-Riverol et al. 2016：科研人员如何用好 GitHub |
 | [Data Carpentry：Introduction to the Command Line for Genomics](https://datacarpentry.org/shell-genomics/) | 📖 | 生信场景下的命令行 |
+| [The Linux Command Line（William Shotts）](https://www.linuxcommand.org/tlcl.php) | 📖 | 免费 PDF，命令行入门与查阅手册 |
 | [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510) | 📄 | Wilson et al. 2017：科研代码与数据管理的“够用”规范 |
+| [Ten simple rules for biologists learning to program](https://doi.org/10.1371/journal.pcbi.1005871) | 📄 | Carey & Papin 2018：写给实验背景研究者的编程学习建议 |
 | 🇨🇳 [CS 自学指南（csdiy.wiki）](https://csdiy.wiki/) | 📖 | 中文社区整理的计算机自学路线，收录大量公开课 |
 
 ## 线性代数

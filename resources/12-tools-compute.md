@@ -16,6 +16,7 @@
 ## 国内学习者提示
 
 - YouTube、Google Colab、Hugging Face 在部分网络环境下无法直接访问。很多课程在 B 站有官方或搬运版本（见 [14 中文资源汇总](14-chinese-resources.md)）。
+- pip 与 conda 换源：参考清华 TUNA 的 [Anaconda 镜像帮助](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)；pip 可运行 `pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple`。
 - Hugging Face 模型可尝试社区镜像 [hf-mirror.com](https://hf-mirror.com/)（设置环境变量 `HF_ENDPOINT=https://hf-mirror.com`）。
 - 没有 GPU 时：先用小数据、小模型在 CPU 上跑通逻辑，再迁移到 Kaggle / Colab / 国内平台。
 
@@ -32,8 +33,12 @@
 | 单细胞 | [scanpy](https://scanpy.readthedocs.io/) · [scvi-tools](https://docs.scvi-tools.org/) · [squidpy](https://squidpy.readthedocs.io/) |
 | 影像 | [napari](https://napari.org/) · [Cellpose](https://www.cellpose.org/) · [MONAI](https://github.com/Project-MONAI/tutorials) |
 | 分子模拟 | [OpenMM](https://openmm.org/) |
+| 生信命令行工具 | [Bioconda](https://bioconda.github.io/)（samtools、bwa 等，支持 Linux 和 macOS） |
+| Notebook 与版本控制 | [nbstripout](https://github.com/kynan/nbstripout)（提交时清除输出） · [Jupytext](https://github.com/mwouts/jupytext)（Notebook 与 .py 互相同步） |
+| GitHub | [GitHub CLI](https://cli.github.com/)（`gh auth login` 登录、在命令行管理仓库） |
 | 结构可视化 | [ChimeraX](https://www.cgl.ucsf.edu/chimerax/)（学术免费） · [py3Dmol](https://pypi.org/project/py3Dmol/)（Notebook 内 3D 显示） |
 
 ## 环境管理
 
 - 推荐用 [Miniforge](https://github.com/conda-forge/miniforge)（自带 mamba）为每个项目建独立环境，导出 `environment.yml` 以便复现。
+- Anaconda 官方的 `defaults` 频道受其服务条款约束，机构用户可能需要付费授权；Miniforge 默认只用社区维护的 conda-forge 频道。

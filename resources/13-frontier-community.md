@@ -6,11 +6,23 @@
 
 | 渠道 | 建议用法 |
 |---|---|
-| ⭐ [bioRxiv](https://www.biorxiv.org/) | 订阅 Bioinformatics、Synthetic Biology、Genomics 等分类的邮件提醒 |
+| ⭐ [bioRxiv](https://www.biorxiv.org/) | 订阅 Bioinformatics、Synthetic Biology、Genomics 等分类的邮件提醒或 RSS（[Alerts/RSS 页面](https://www.biorxiv.org/alertsrss)） |
 | ⭐ [arXiv q-bio 新论文](https://arxiv.org/list/q-bio/new) | 重点看 q-bio.BM（生物分子）、q-bio.GN（基因组）、q-bio.QM（定量方法） |
 | [Hugging Face Papers](https://huggingface.co/papers) | 每日热门论文；Papers with Code 关闭后的主要替代 |
 | [alphaXiv](https://www.alphaxiv.org/) | 在 arXiv 论文上逐段讨论 |
 | [Zotero](https://www.zotero.org/) | 免费文献管理，配合 RSS 订阅预印本 |
+
+## 读论文与学习方法
+
+| 资源 | 说明 |
+|---|---|
+| ⭐ [Keshav, *How to Read a Paper*](https://www.cs.princeton.edu/courses/archive/fall10/cos597B/papers/howtoread-keshav.pdf) | 两页短文：三遍阅读法与“五个 C” |
+| ⭐ [Ten simple rules for reading a scientific paper](https://doi.org/10.1371/journal.pcbi.1008032) | Carey et al. 2020，PLOS Computational Biology 开放获取 |
+| [Dunlosky et al. 2013（APS 免费全文）](https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html) | 10 种学习方法的证据评估：自测与分散练习效用最高 |
+| [How to write good prompts（Andy Matuschak）](https://andymatuschak.org/prompts/) | 怎样把知识写成好的间隔重复卡片 |
+| [Augmenting Long-term Memory（Michael Nielsen）](http://augmentingcognition.com/ltm.html) | 用 Anki 读懂陌生领域论文的经验 |
+| [Anki](https://apps.ankiweb.net/) | 间隔重复软件（电脑版和安卓版免费） |
+| [Learning How to Learn（Coursera）](https://www.coursera.org/learn/learning-how-to-learn) | 学习的认知科学，可免费旁听 |
 
 ## 会议与研讨会
 

@@ -31,7 +31,7 @@
 | 004 | Git 与 GitHub：建立自己的学习仓库 | Software Carpentry Git；Missing Semester 版本控制一课 | [✅](daily/2026-11/day004-2026-11-07.md) |
 | 005 | Linux 命令行与生信文件操作 | Software Carpentry Shell；Data Carpentry Shell for Genomics | [✅](daily/2026-11/day005-2026-11-08.md) |
 | 006 | 如何读 AI × 生物论文、追踪文献 | Keshav《How to Read a Paper》；Ten simple rules for reading a scientific paper；Zotero + 预印本订阅 | [✅](daily/2026-11/day006-2026-11-09.md) |
-| 007 | 🔁 周复盘 ①：第一个生物 AI Notebook | Biopython 解析序列 + 从 AlphaFold DB 取结构 + 画 pLDDT 曲线 | ⏳ |
+| 007 | 🔁 周复盘 ①：第一个生物 AI Notebook | Biopython 解析序列 + 从 AlphaFold DB 取结构 + 画 pLDDT 曲线 | [✅](daily/2026-11/day007-2026-11-10.md) |
 
 ## 阶段 1 · 基础补齐
 

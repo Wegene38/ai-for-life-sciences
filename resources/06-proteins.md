@@ -12,6 +12,7 @@
 | ⭐ [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/) | 博客 | 图解 AlphaFold3 的架构与信息流 |
 | [ML for Protein Engineering 研讨会系列](https://www.ml4proteinengineering.com/) | 📹 | 双周学术讲座，YouTube 有往期录像 |
 | ⭐ [ColabFold](https://github.com/sokrypton/ColabFold) | 💻 | 在 Colab 上免费跑结构预测 |
+| [AlphaFold DB API 文档](https://alphafold.ebi.ac.uk/api-docs) | 📖 | 用程序批量获取预测结构。数据库已升级到 v6，部分接口字段有变化，见[变更说明](https://www.ebi.ac.uk/pdbe/news/breaking-changes-afdb-predictions-api) |
 | ⭐ [ColabDesign](https://github.com/sokrypton/ColabDesign) | 💻 | Sergey Ovchinnikov 的蛋白设计 Notebook 合集 |
 | [PDB-101](https://pdb101.rcsb.org/) | 📖 | 结构生物学基础 |
 | [Machine-learning-guided directed evolution for protein engineering](https://arxiv.org/abs/1811.10775) | 📄 | Yang, Wu & Arnold 综述（Nature Methods 2019） |
@@ -47,6 +48,7 @@
 | 🆕 RFdiffusion3 | 2025 年 12 月在 foundry 中开源，全原子级设计 | [foundry](https://github.com/RosettaCommons/foundry) |
 | BindCraft | 基于 AlphaFold2 反向传播的结合蛋白设计 | [代码](https://github.com/martinpacesa/BindCraft) |
 | 🆕 BoltzGen | 开源（MIT）通用结合物设计：蛋白、纳米抗体、多肽 | [代码](https://github.com/HannesStark/boltzgen) |
+| 🆕 RFD4-Proteina | 2026 年 10 月 UW IPD（Baker 实验室）与 NVIDIA 联合开源（BSD-3）的生物分子设计基础模型，基于流匹配 | [代码](https://github.com/RosettaCommons/RFD4-Proteina) |
 
 ## 负责任的研究
 
