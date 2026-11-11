@@ -3,9 +3,9 @@
 **AI for Life Sciences：一条 26 周的系统学习路线 + 精选免费资源 + 每天更新的学习笔记**
 
 <!-- PROGRESS:START -->
-![每日笔记](https://img.shields.io/badge/daily%20notes-8-2ea44f) ![最近更新](https://img.shields.io/badge/updated-2026--11--11-blue)
+![每日笔记](https://img.shields.io/badge/daily%20notes-9-2ea44f) ![最近更新](https://img.shields.io/badge/updated-2026--11--12-blue)
 
-📈 每日笔记已更新 **8** 天 · 核心课程进度 8 / 182 · 当前阶段：阶段 1「基础补齐」
+📈 每日笔记已更新 **9** 天 · 核心课程进度 9 / 182 · 当前阶段：阶段 1「基础补齐」
 <!-- PROGRESS:END -->
 
 从 Python 和数学基础出发，经过机器学习、深度学习、生成模型与大模型，再深入基因组、蛋白质、药物发现、单细胞、生物医学影像、科研智能体六个方向，最后完成一个可开源的毕业项目。所有推荐资源都**免费**，建库时做过核实：GitHub 仓库逐个确认存在，其他链接以官方页面为准并经网络搜索核实。
@@ -41,13 +41,13 @@ flowchart LR
 <!-- LATEST:START -->
 | 日期 | Day | 主题 |
 |---|---|---|
+| 2026-11-12 | [Day 009](daily/2026-11/day009-2026-11-12.md) | NumPy：向量化与广播 |
 | 2026-11-11 | [Day 008](daily/2026-11/day008-2026-11-11.md) | Python 核心语法速览 |
 | 2026-11-10 | [Day 007](daily/2026-11/day007-2026-11-10.md) | 🔁 周复盘 ①：第一个生物 AI Notebook |
 | 2026-11-09 | [Day 006](daily/2026-11/day006-2026-11-09.md) | 如何读 AI × 生物论文、追踪文献 |
 | 2026-11-08 | [Day 005](daily/2026-11/day005-2026-11-08.md) | Linux 命令行与生信文件操作 |
 | 2026-11-07 | [Day 004](daily/2026-11/day004-2026-11-07.md) | Git 与 GitHub：建立自己的学习仓库 |
 | 2026-11-06 | [Day 003](daily/2026-11/day003-2026-11-06.md) | 开发环境：Colab、Kaggle、conda、Jupyter |
-| 2026-11-05 | [Day 002](daily/2026-11/day002-2026-11-05.md) | 学习者自评与个人路线定制 |
 <!-- LATEST:END -->
 
 全部笔记见 [daily/](daily/README.md)。
