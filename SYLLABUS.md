@@ -44,7 +44,7 @@
 | 009 | NumPy：向量化与广播 | PDSH 第 2 章；用 one-hot 编码 DNA 序列 | [✅](daily/2026-11/day009-2026-11-12.md) |
 | 010 | pandas：表格数据处理 | PDSH 第 3 章；以基因表达矩阵为例做筛选、分组、合并 | [✅](daily/2026-11/day010-2026-11-13.md) |
 | 011 | 可视化：matplotlib / seaborn | PDSH 第 4 章；火山图、热图、散点图的规范画法 | [✅](daily/2026-11/day011-2026-11-14.md) |
-| 012 | Biopython 与生物文件格式 | FASTA/FASTQ/GenBank/PDB 读写；Biopython Tutorial | ⏳ |
+| 012 | Biopython 与生物文件格式 | FASTA/FASTQ/GenBank/PDB 读写；Biopython Tutorial | [✅](daily/2026-11/day012-2026-11-15.md) |
 | 013 | 写可复现的科研代码 | 《Good enough practices in scientific computing》；项目结构、环境锁定、随机种子 | ⏳ |
 | 014 | 🔁 周复盘 ②：分析一个公开表达数据集 | 读入 → 质控 → 归一化 → 差异表达初探 → 作图 | ⏳ |
 
