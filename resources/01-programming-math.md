@@ -7,7 +7,7 @@
 | 资源 | 形式 | 说明 |
 |---|---|---|
 | ⭐🇨🇳 [Python 官方教程（中文）](https://docs.python.org/zh-cn/3/tutorial/) | 📖 | 最权威的语法入门，第 3–9 章覆盖日常所需 |
-| ⭐ [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | 📖💻 | Jake VanderPlas 著，免费全文 + Notebook；NumPy、pandas、Matplotlib、scikit-learn |
+| ⭐ [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | 📖💻 | Jake VanderPlas 著，免费全文 + Notebook；NumPy、pandas、Matplotlib、scikit-learn。🆕 书中的 pandas 部分基于旧版本，pandas 3 的写时复制等变化见 [pandas 3.0 更新说明](https://pandas.pydata.org/docs/whatsnew/v3.0.0.html) |
 | ⭐🇨🇳 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) · [中文版](https://missing-semester-cn.github.io/) | 🎓📹 | MIT 出品：Shell、编辑器、Git、调试、元编程；🆕 2026 年新版已上线，把 AI 工具的用法融入各讲，中文翻译目前是 2020 版 |
 | [Software Carpentry：The Unix Shell](https://swcarpentry.github.io/shell-novice/) | 📖 | 零基础命令行，面向科研人员 |
 | [Software Carpentry：Version Control with Git](https://swcarpentry.github.io/git-novice/) | 📖 | Git 入门 |
@@ -16,6 +16,10 @@
 | [Data Carpentry：Introduction to the Command Line for Genomics](https://datacarpentry.org/shell-genomics/) | 📖 | 生信场景下的命令行 |
 | [The Linux Command Line（William Shotts）](https://www.linuxcommand.org/tlcl.php) | 📖 | 免费 PDF，命令行入门与查阅手册 |
 | [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510) | 📄 | Wilson et al. 2017：科研代码与数据管理的“够用”规范 |
+| 🆕 [Ten Simple Rules for Reproducible Computational Research](https://doi.org/10.1371/journal.pcbi.1003285) | 📄 | Sandve et al. 2013：记录每个结果的来历、保存软件版本和随机种子等十条规则 |
+| 🆕 [The Turing Way](https://book.the-turing-way.org/) | 📖 | 社区编写的可复现数据科学手册：环境管理、版本控制、数据管理与协作 |
+| 🆕 [Ten Simple Rules for Better Figures](https://doi.org/10.1371/journal.pcbi.1003833) | 📄 | Rougier et al. 2014：科研作图的十条原则 |
+| 🆕 [Beyond Bar and Line Graphs](https://doi.org/10.1371/journal.pbio.1002128) | 📄 | Weissgerber et al. 2015：小样本数据为什么要画出每个数据点 |
 | [Ten simple rules for biologists learning to program](https://doi.org/10.1371/journal.pcbi.1005871) | 📄 | Carey & Papin 2018：写给实验背景研究者的编程学习建议 |
 | 🇨🇳 [CS 自学指南（csdiy.wiki）](https://csdiy.wiki/) | 📖 | 中文社区整理的计算机自学路线，收录大量公开课 |
 

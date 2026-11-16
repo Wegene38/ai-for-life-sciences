@@ -2,6 +2,15 @@
 
 每日笔记的更新记录见 git 历史和 [daily/README.md](daily/README.md)。这里记录资源库、路线和维护流程的变化。
 
+## 2026-11-17
+
+- 第 2 周资源维护：
+  - [01 编程与数学基础](resources/01-programming-math.md)：补充 Ten Simple Rules for Reproducible Computational Research、The Turing Way、Ten Simple Rules for Better Figures、Beyond Bar and Line Graphs；PDSH 条目注明 pandas 3 的变化。
+  - [02 生命科学与生物信息学](resources/02-life-science-bioinformatics.md)：补充 Biopython 新版教程、NCBI GenBank 示例记录、PDB-101 数据指南、RNA-seq 最佳实践综述（Conesa et al. 2016）和 Bioconductor rnaseqGene 工作流。
+  - [05 基因组学](resources/05-genomics.md)：新增 AlphaGenome 2 与 AlphaGenome Atlas。
+  - [12 工具与算力](resources/12-tools-compute.md)：新增 gemmi、Biotite、fastp、SeqKit、pysam、PyDESeq2，以及锁文件工具 conda-lock、uv、pip-tools。
+- 链接检查：仓库中引用的 80 个 GitHub 仓库全部可以访问，未发现失效链接。
+
 ## 2026-11-10
 
 - 第 1 周资源维护：

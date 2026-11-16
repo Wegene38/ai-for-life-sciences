@@ -28,12 +28,14 @@
 | 图与几何 | [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/) · [e3nn](https://e3nn.org/) |
 | 传统 ML | [scikit-learn](https://scikit-learn.org/) · [XGBoost](https://xgboost.readthedocs.io/) |
 | 可解释性 | [Captum](https://captum.ai/) |
-| 序列与结构 | [Biopython](https://biopython.org/) · [ESM](https://github.com/facebookresearch/esm) · [ColabFold](https://github.com/sokrypton/ColabFold) |
+| 序列与结构 | [Biopython](https://biopython.org/) · [ESM](https://github.com/facebookresearch/esm) · [ColabFold](https://github.com/sokrypton/ColabFold) · 🆕 [gemmi](https://github.com/project-gemmi/gemmi) · 🆕 [Biotite](https://github.com/biotite-dev/biotite)（更快的结构文件处理） |
 | 化学 | [RDKit](https://github.com/rdkit/rdkit) · [Chemprop](https://github.com/chemprop/chemprop) · [DeepChem](https://github.com/deepchem/deepchem) |
 | 单细胞 | [scanpy](https://scanpy.readthedocs.io/) · [scvi-tools](https://docs.scvi-tools.org/) · [squidpy](https://squidpy.readthedocs.io/) |
 | 影像 | [napari](https://napari.org/) · [Cellpose](https://www.cellpose.org/) · [MONAI](https://github.com/Project-MONAI/tutorials) |
 | 分子模拟 | [OpenMM](https://openmm.org/) |
 | 生信命令行工具 | [Bioconda](https://bioconda.github.io/)（samtools、bwa 等，支持 Linux 和 macOS） |
+| 测序数据处理 | 🆕 [fastp](https://github.com/OpenGene/fastp)（FASTQ 质控与修剪） · 🆕 [SeqKit](https://github.com/shenwei356/seqkit)（FASTA / FASTQ 命令行工具箱） · 🆕 [pysam](https://github.com/pysam-developers/pysam)（读写 SAM / BAM / VCF） |
+| 差异表达（bulk RNA-seq） | 🆕 [PyDESeq2](https://github.com/owkin/PyDESeq2)（DESeq2 的 Python 实现，属于 scverse 生态） |
 | Notebook 与版本控制 | [nbstripout](https://github.com/kynan/nbstripout)（提交时清除输出） · [Jupytext](https://github.com/mwouts/jupytext)（Notebook 与 .py 互相同步） |
 | GitHub | [GitHub CLI](https://cli.github.com/)（`gh auth login` 登录、在命令行管理仓库） |
 | 结构可视化 | [ChimeraX](https://www.cgl.ucsf.edu/chimerax/)（学术免费） · [py3Dmol](https://pypi.org/project/py3Dmol/)（Notebook 内 3D 显示） |
@@ -41,4 +43,5 @@
 ## 环境管理
 
 - 推荐用 [Miniforge](https://github.com/conda-forge/miniforge)（自带 mamba）为每个项目建独立环境，导出 `environment.yml` 以便复现。
+- 🆕 需要锁定全部依赖的精确版本时，可用 [conda-lock](https://github.com/conda/conda-lock)、[uv](https://github.com/astral-sh/uv) 或 [pip-tools](https://github.com/jazzband/pip-tools) 生成锁文件（见 Day 013）。
 - Anaconda 官方的 `defaults` 频道受其服务条款约束，机构用户可能需要付费授权；Miniforge 默认只用社区维护的 conda-forge 频道。

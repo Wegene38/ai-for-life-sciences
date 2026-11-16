@@ -25,6 +25,7 @@
 | Enformer | 2021 | Transformer 建模约 100 kb 远端调控 | [论文](https://doi.org/10.1038/s41592-021-01252-x) |
 | Borzoi | 2025 | 从序列预测 RNA-seq 覆盖度 | [代码](https://github.com/calico/borzoi) |
 | ⭐🆕 AlphaGenome | 2026 | 1 Mb 输入、碱基分辨率、同时预测表达、剪接、可及性等数千种性质；API 对非商业用途免费 | [Nature 论文](https://doi.org/10.1038/s41586-025-10014-0) · [API](https://github.com/google-deepmind/alphagenome) · [模型代码](https://github.com/google-deepmind/alphagenome_research) |
+| 🆕 AlphaGenome 2 · AlphaGenome Atlas | 2026 | 预测变异在特定细胞类型和状态下的效应，可用自己的 scRNA-seq 数据做条件化；Atlas 为约 90 亿个人类变异提供预计算打分；API 对非商业用途免费 | [API 与说明](https://github.com/google-deepmind/alphagenome) · [Atlas](https://alphagenome.google/atlas) · [Atlas 预印本](https://doi.org/10.64898/2026.09.16.26363192) |
 | DNABERT-2 | 2024 | BPE 分词的多物种 DNA 语言模型 | [代码](https://github.com/MAGICS-LAB/DNABERT_2) |
 | Nucleotide Transformer | 2024 | 多物种 DNA 语言模型 | [代码](https://github.com/instadeepai/nucleotide-transformer) |
 | HyenaDNA | 2023 | 长卷积实现百万碱基上下文 | [代码](https://github.com/HazyResearch/hyena-dna) |

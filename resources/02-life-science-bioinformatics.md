@@ -26,7 +26,11 @@
 | ⭐ [EMBL-EBI Training](https://www.ebi.ac.uk/training/) | 🎓 | 大量免费在线课程与研讨会录像 |
 | [Galaxy Training Network](https://training.galaxyproject.org/) | 📖 | 数百个动手教程，覆盖测序分析各环节 |
 | [Harvard Chan Bioinformatics Core 培训材料](https://hbctraining.github.io/main/) | 📖💻 | RNA-seq、ChIP-seq、单细胞等实战课程 |
-| [Biopython 文档](https://biopython.org/wiki/Documentation) | 📖💻 | 官方 Tutorial & Cookbook |
+| [Biopython 文档](https://biopython.org/wiki/Documentation) | 📖💻 | 官方 Tutorial & Cookbook；🆕 [新版教程](https://biopython.org/docs/latest/Tutorial/) 按章节分页（SeqIO、PDB、Entrez 等） |
+| 🆕 [NCBI：Sample GenBank Record](https://www.ncbi.nlm.nih.gov/genbank/samplerecord/) | 📖 | 逐个字段解释 GenBank 记录的格式 |
+| 🆕 [PDB-101：Guide to Understanding PDB Data](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/pdb-overview) | 📖 | PDB 条目、mmCIF 格式、坐标与生物组装体入门 |
+| 🆕 [A survey of best practices for RNA-seq data analysis](https://doi.org/10.1186/s13059-016-0881-8) | 📄 | Conesa et al. 2016（Genome Biology，开放获取）：从实验设计、质控到差异表达的完整流程 |
+| 🆕 [Bioconductor RNA-seq workflow（rnaseqGene）](https://bioconductor.org/packages/release/workflows/html/rnaseqGene.html) | 📖💻 | Love et al.：用 airway 数据从计数矩阵做到差异表达（R / DESeq2） |
 | [Data Carpentry 基因组学课程](https://datacarpentry.org/shell-genomics/) | 📖 | 面向生物学家的数据技能 |
 
 ## 核心数据库

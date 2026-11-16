@@ -46,7 +46,7 @@
 | 011 | 可视化：matplotlib / seaborn | PDSH 第 4 章；火山图、热图、散点图的规范画法 | [✅](daily/2026-11/day011-2026-11-14.md) |
 | 012 | Biopython 与生物文件格式 | FASTA/FASTQ/GenBank/PDB 读写；Biopython Tutorial | [✅](daily/2026-11/day012-2026-11-15.md) |
 | 013 | 写可复现的科研代码 | 《Good enough practices in scientific computing》；项目结构、环境锁定、随机种子 | [✅](daily/2026-11/day013-2026-11-16.md) |
-| 014 | 🔁 周复盘 ②：分析一个公开表达数据集 | 读入 → 质控 → 归一化 → 差异表达初探 → 作图 | ⏳ |
+| 014 | 🔁 周复盘 ②：分析一个公开表达数据集 | 读入 → 质控 → 归一化 → 差异表达初探 → 作图 | [✅](daily/2026-11/day014-2026-11-17.md) |
 
 ### 第 3 周 · 数学 I：线性代数与优化
 > 主资源：[3Blue1Brown 线性代数的本质](https://www.3blue1brown.com/topics/linear-algebra)、[MML](https://mml-book.github.io/)、[d2l](https://zh.d2l.ai/)
