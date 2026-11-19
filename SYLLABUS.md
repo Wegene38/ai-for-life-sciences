@@ -55,7 +55,7 @@
 |---|---|---|---|
 | 015 | 向量、矩阵与线性变换 | 3Blue1Brown 第 1–4 集；MML 第 2 章 | [✅](daily/2026-11/day015-2026-11-18.md) |
 | 016 | 特征分解与 SVD | 3Blue1Brown 特征向量一集；MML 第 4 章；MIT 18.06 选看 | [✅](daily/2026-11/day016-2026-11-19.md) |
-| 017 | PCA：原理与组学应用 | MML 第 10 章；MSMB 第 7 章；用 SVD 手写 PCA | ⏳ |
+| 017 | PCA：原理与组学应用 | MML 第 10 章；MSMB 第 7 章；用 SVD 手写 PCA | [✅](daily/2026-11/day017-2026-11-20.md) |
 | 018 | 导数、梯度与链式法则 | 3Blue1Brown 微积分的本质；MML 第 5 章 | ⏳ |
 | 019 | 优化：梯度下降与学习率 | MML 第 7 章；d2l 第 11 章 11.1–11.5 | ⏳ |
 | 020 | 自动微分：从手推到 autograd | d2l 2.5；Karpathy micrograd（Zero to Hero 第 1 讲） | ⏳ |
