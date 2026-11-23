@@ -59,7 +59,7 @@
 | 018 | 导数、梯度与链式法则 | 3Blue1Brown 微积分的本质；MML 第 5 章 | [✅](daily/2026-11/day018-2026-11-21.md) |
 | 019 | 优化：梯度下降与学习率 | MML 第 7 章；d2l 第 11 章 11.1–11.5 | [✅](daily/2026-11/day019-2026-11-22.md) |
 | 020 | 自动微分：从手推到 autograd | d2l 2.5；Karpathy micrograd（Zero to Hero 第 1 讲） | [✅](daily/2026-11/day020-2026-11-23.md) |
-| 021 | 🔁 周复盘 ③：从零实现 PCA 与线性回归 | 只用 NumPy；与 scikit-learn 结果对比 | ⏳ |
+| 021 | 🔁 周复盘 ③：从零实现 PCA 与线性回归 | 只用 NumPy；与 scikit-learn 结果对比 | [✅](daily/2026-11/day021-2026-11-24.md) |
 
 ### 第 4 周 · 数学 II：概率统计与信息论
 > 主资源：[Harvard Stat 110](https://stat110.hsites.harvard.edu/)、[MSMB](https://www.huber.embl.de/msmb/)、[ISLP](https://www.statlearning.com/)

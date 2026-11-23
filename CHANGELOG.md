@@ -2,6 +2,13 @@
 
 每日笔记的更新记录见 git 历史和 [daily/README.md](daily/README.md)。这里记录资源库、路线和维护流程的变化。
 
+## 2026-11-24
+
+- 第 3 周资源维护：
+  - [01 编程与数学基础](resources/01-programming-math.md)：线性代数部分补充 SVD 与 PCA 在生物数据中的两篇经典应用（Alter et al. 2000；Novembre et al. 2008），微积分与优化部分补充《动手学深度学习》2.5 自动微分。
+  - [03 机器学习与深度学习](resources/03-machine-learning-deep-learning.md)：新增 3Blue1Brown 神经网络系列。
+- 链接检查：仓库中引用的 91 个 GitHub 仓库全部可以访问，未发现失效链接。
+
 ## 2026-11-17
 
 - 第 2 周资源维护：

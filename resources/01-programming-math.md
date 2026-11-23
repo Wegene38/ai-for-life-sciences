@@ -30,6 +30,8 @@
 | ⭐🇨🇳 [3Blue1Brown：线性代数的本质](https://www.3blue1brown.com/topics/linear-algebra) | 📹 | 几何直觉最好的入门；B 站有官方中文版 |
 | [MIT 18.06 Linear Algebra（Gilbert Strang）](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) | 🎓📹 | 经典课程，含完整录像与习题 |
 | ⭐ [Mathematics for Machine Learning](https://mml-book.github.io/) | 📖 | Deisenroth 等著，免费 PDF；线代、解析几何、矩阵分解、向量微积分、概率、优化 |
+| 🆕 [Alter et al. 2000：用 SVD 处理全基因组表达数据](https://doi.org/10.1073/pnas.97.18.10101) | 📄 | PNAS 经典论文：把表达矩阵分解为“特征基因”和“特征阵列”，可免费阅读 |
+| 🆕 [Novembre et al. 2008：Genes mirror geography within Europe](https://pubmed.ncbi.nlm.nih.gov/18758442/) | 📄 | 用基因型数据做 PCA，还原出欧洲地图；PubMed 页面有免费作者稿 |
 
 ## 微积分与优化
 
@@ -38,6 +40,7 @@
 | 🇨🇳 [3Blue1Brown：微积分的本质](https://www.3blue1brown.com/topics/calculus) | 📹 | 导数、链式法则的直觉 |
 | 🇨🇳 [《动手学深度学习》预备知识与优化算法章节](https://zh.d2l.ai/) | 📖💻 | 第 2 章（含自动微分）与第 11 章（梯度下降到 Adam） |
 | [Karpathy：micrograd](https://github.com/karpathy/micrograd) | 💻📹 | 100 行代码实现自动微分，配合 Zero to Hero 第 1 讲 |
+| 🆕🇨🇳 [《动手学深度学习》2.5 自动微分](https://zh.d2l.ai/chapter_preliminaries/autograd.html) | 📖💻 | 中文，用 PyTorch 演示自动微分、分离计算和控制流中的梯度 |
 
 ## 概率、统计与信息论
 

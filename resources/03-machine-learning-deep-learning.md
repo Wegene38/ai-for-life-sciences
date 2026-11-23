@@ -26,6 +26,7 @@
 | ⭐ [Understanding Deep Learning（Simon Prince）](https://udlbook.github.io/udlbook/) | 📖💻 | 2023 年 MIT Press，免费 PDF + Notebook，图示极清晰 |
 | [Deep Learning: Foundations and Concepts（Bishop & Bishop）](https://www.bishopbook.com/) | 📖 | 2024 年新教材，可免费在线阅读 |
 | ⭐ [Neural Networks: Zero to Hero（Andrej Karpathy）](https://karpathy.ai/zero-to-hero.html) | 📹💻 | 从 micrograd 写到 GPT，代码驱动 |
+| 🆕🇨🇳 [3Blue1Brown：神经网络系列](https://www.3blue1brown.com/topics/neural-networks) | 📹 | 用动画讲神经网络、梯度下降和反向传播（含 Backpropagation calculus 一集）；B 站有官方双语版 |
 | [Practical Deep Learning for Coders（fast.ai）](https://course.fast.ai/) | 🎓📹 | 自顶向下，先做出东西再讲原理 |
 | [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) | 🎓📹 | 每年更新，有完整录像 |
 | [Stanford CS231n](https://cs231n.stanford.edu/) | 🎓 | CNN 与视觉，课程笔记经典 |
